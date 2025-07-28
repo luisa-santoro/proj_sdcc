@@ -1,0 +1,11 @@
+{
+  "titolo": "Titolo aggiornato",
+  "descrizione": "Descrizione modificata",
+  "immagini": "https://news-finanza-bucket.s3.eu-west-1.amazonaws.com/immagine_modificata.jpg",
+  "fonte": "Fonte aggiornata",
+  "dataPubblicazione": "2025-06-24T14:00:00",
+  "categoria": "Finanza",
+  "version": 1
+}
+
+

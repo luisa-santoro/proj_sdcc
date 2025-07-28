@@ -1,0 +1,14 @@
+# Maven
+/target/
+/*.iml
+
+# IntelliJ
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+
+# Credenziali o env
+set_env.sh
+.env
