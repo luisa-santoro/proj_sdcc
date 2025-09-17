@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+boto3
+gunicorn
+openai
+python-dotenv
